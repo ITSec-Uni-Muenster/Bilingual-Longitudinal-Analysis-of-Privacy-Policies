@@ -1,14 +1,14 @@
 # Bilingual Longitudinal Analysis of Privacy-Policies
 
-Paper title: A Bilingual Longitudinal Analysis of Privacy Policies Measuring the Impacts of the GDPR and the CCPA/CPRA
+### NOTE: This repository is under construction. We are working on documenting the code and adding instructions. 
 
 ## Basic Requirements
 We ran the code in Anaconda environments. Please find the .yml files in the repository and the accompanying description below. 
 
-### Software Requirements
+## Software Requirements
 All experiments were conducted on Linux machines, which were either equipped with CentOS 7.9 or Ubuntu 20.04.
 
-### Estimated Time and Storage Consumption
+## Estimated Time and Storage Consumption
 The experiments were performed on a high-performance cluster. The nodes used were equipped with either 128 cores and 512GB of RAM or 72 cores and 1.5 TB of RAM.
 The determination of the number of topics (See Appendix H) using the ```ldatuning``` library took up to 7 days for each corpus. 
 
