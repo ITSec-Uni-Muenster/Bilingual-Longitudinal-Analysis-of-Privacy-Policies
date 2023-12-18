@@ -2,8 +2,6 @@
 
 ### NOTE: This repository is under construction. We are working on documenting the code and adding instructions. 
 
-Paper title: A Bilingual Longitudinal Analysis of Privacy Policies Measuring the Impacts of the GDPR and the CCPA/CPRA
-
 ## Basic Requirements
 We ran the code in Anaconda environments. Please find the .yml files in the repository and the accompanying description below. 
 
