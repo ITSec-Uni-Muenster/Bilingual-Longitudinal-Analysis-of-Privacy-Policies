@@ -8,7 +8,7 @@ All analyses were conducted on Linux machines, which were either equipped with C
 
 ## Estimated Time and Storage Consumption
 The analyses were performed on the high-performance cluster of the University of Münster [PALMA II](https://www.uni-muenster.de/IT.Technik/en/Server/HPC.html). The nodes used were equipped with either 128 cores and 512GB of RAM or 72 cores and 1.5 TB of RAM.
-The determination of the number of topics (See Appendix I) using the ```[ldatuning](https://github.com/nikita-moor/ldatuning)``` library took up to 7 days for each corpus. 
+The determination of the number of topics (See Appendix I) using the [ldatuning](https://github.com/nikita-moor/ldatuning) library took up to 7 days for each corpus. 
 
 ## Environment
 The Anaconda software is available at [Anaconda.com](https://www.anaconda.com/download). Please download and install Anaconda on your Linux System. Then, use the environment files to create the environments. 
